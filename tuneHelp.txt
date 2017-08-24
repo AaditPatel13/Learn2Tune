@@ -1,0 +1,8 @@
+1. Choose a string that you would like to be tested on from the dropdown menu.
+2. Play String will play that string for you to hear.
+3. Start will start the testing in which a random pitch of the selected string will be played.
+4. Replay will replay the random pitch.
+5. Lower will lower the pitch and play that.
+6. Higher will higher the pitch and play that.
+	- For both of the above, if the pitch is at the highest or lowest pitch for that string recorded, it will restart from the other side. For example if im at the highest pitch and I press higher, then it will restart at the lowest pitch for that string
+7. Submit will tell you whether you are correct or not.
